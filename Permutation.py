@@ -26,4 +26,4 @@ def permute(s):
 
 
 final = permute("abcd")
-print l
+print final
