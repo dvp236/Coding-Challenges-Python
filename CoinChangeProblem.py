@@ -1,7 +1,3 @@
 
-# coding: utf-8
-
-# In[ ]:
-
-
-
+def get_min(target,denominations):
+    pass
